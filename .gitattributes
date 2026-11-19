@@ -1,0 +1,10 @@
+# Pacotes do App Inventor e imagens
+*.aia binary
+*.aix binary
+*.png binary
+
+# Fim de linha Unix nos códigos e scripts
+*.sh   text eol=lf
+*.py   text eol=lf
+*.java text eol=lf
+*.md   text eol=lf
