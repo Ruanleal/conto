@@ -1,3 +1,5 @@
+<div lang="pt-BR">
+
 <div align="center">
 
 <img src="docs/images/icon.png" alt="Ícone do Contô" width="96">
@@ -171,4 +173,6 @@ Distribuído sob a licença MIT. Veja [LICENSE](LICENSE). As fontes Manrope incl
 
 <div align="center">
 Feito por <a href="https://github.com/Ruanleal">@Ruanleal</a>
+</div>
+
 </div>
