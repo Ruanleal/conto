@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+
+# Saídas de compilação e de testes
+build/
+testwork/
+mut_src18/
+mut_app18/
+
+# Sistema
+.DS_Store
+Thumbs.db
